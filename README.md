@@ -1,4 +1,4 @@
-# Flutter Video Calling App With Jitsi Meet
+# Flutter Video Calling App With Jitsi Meet X [Tahmeed's Lab](http://tahmeedul.com/)
 ### A video conferencing platform that can be used through a computer desktop or android app
 
 - Screenshots
