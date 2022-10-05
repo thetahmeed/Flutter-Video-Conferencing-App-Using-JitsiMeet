@@ -2,16 +2,16 @@
 ### A video conferencing platform that can be used through a computer desktop or android app
 
 - Screenshots
-  - Web
-  - Android
-  - iOS
-- Package used
-- Do before production
-  - Anroid
-  - iOS
-  - Web
-- Pros
-- Cons
+  - [Web](https://github.com/thetahmeed/Flutter-Video-Conferencing-App-Using-JitsiMeet#screenshots-web-)
+  - [Android](https://github.com/thetahmeed/Flutter-Video-Conferencing-App-Using-JitsiMeet#screenshots-android-)
+  - [iOS](https://github.com/thetahmeed/Flutter-Video-Conferencing-App-Using-JitsiMeet#screenshots-iOS-)
+- [Package used](https://github.com/thetahmeed/Flutter-Video-Conferencing-App-Using-JitsiMeet#package-used)
+- [Do before production](https://github.com/thetahmeed/Flutter-Video-Conferencing-App-Using-JitsiMeet#do-before-production-)
+  - [Anroid](https://github.com/thetahmeed/Flutter-Video-Conferencing-App-Using-JitsiMeet#android)
+  - [iOS](https://github.com/thetahmeed/Flutter-Video-Conferencing-App-Using-JitsiMeet#ios)
+  - [Web](https://github.com/thetahmeed/Flutter-Video-Conferencing-App-Using-JitsiMeet#ios)
+- [Pros](https://github.com/thetahmeed/Flutter-Video-Conferencing-App-Using-JitsiMeet#pros)
+- [Cons](https://github.com/thetahmeed/Flutter-Video-Conferencing-App-Using-JitsiMeet#cons)
 
 ## Screenshots (Web) : 
 ![Web-demo](https://raw.githubusercontent.com/thetahmeed/Flutter-Video-Conferencing-App-Using-JitsiMeet/main/web-demo.png)
